@@ -280,11 +280,11 @@
         }
 
         .project-image.plant::before {
-            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="%235CB85C" d="M50,10 Q60,30 50,50 Q40,30 50,10 M50,50 L50,90 M30,60 Q50,55 70,60"/></svg>');
+            background-image: url('./Assets/Plant\ Disease\ Detection.png');
         }
 
         .project-image.spam::before {
-            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="%232D3747" d="M80,20 L20,20 L20,80 L80,80 Z M30,30 L70,30 L70,40 L30,40 Z M30,50 L70,50 L70,60 L30,60 Z M30,70 L70,70 L70,80 L30,80 Z"/></svg>');
+            background-image: url('./Assets/Spam_Detection.png');
         }
 
         .project-content {
