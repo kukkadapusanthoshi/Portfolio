@@ -1,6 +1,6 @@
 # Kukkadapu Santhoshi - Portfolio Website
 
-![Portfolio Screenshot](./screenshot.png) <!-- Add a screenshot later -->
+![Portfolio Screenshot](./Assets/image.png) <!-- Add a screenshot later -->
 
 A minimalist and responsive portfolio website showcasing my skills, projects, and education as a Java Developer and Machine Learning Enthusiast.
 
